@@ -1,5 +1,3 @@
 # clavulanicacid
 
-pip install pandas tqdm biopython
-pip install pandas joblib pydeseq2
-
+python code used to perform analysis of article "Integrated Genomic-Transcriptomic Analysis of Clavulanic Acid Production in Differentially Productive Streptomyces clavuligerus Strains"
